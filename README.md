@@ -1,11 +1,7 @@
-# SDL2 Game Programming
-A c++ game programming made with SDL2 library.
-Download for Window: https://drive.google.com/file/d/1YFtzvdZygd0r_61utTcEIznVJBu43-ma/view?usp=sharing
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 A 2D game made with C++ and SDL2 library that allows you to memorize vocabulary while shooting enemies.<br/>
-Demo Video
+Demo Video: https://youtu.be/DuKH1ZL2wAA
 
 ### Built With
 
