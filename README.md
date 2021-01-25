@@ -4,7 +4,8 @@ Download for Window: https://drive.google.com/file/d/1YFtzvdZygd0r_61utTcEIznVJB
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A 2D game made with C++ and SDL2 library that allows you to memorize vocabulary while shooting enemies.
+A 2D game made with C++ and SDL2 library that allows you to memorize vocabulary while shooting enemies.<br/>
+Demo Video
 
 ### Built With
 
