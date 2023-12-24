@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 A 2D game made with C++ and SDL2 library that allows you to memorize vocabulary while shooting enemies.
-![gif]([picture or gif url](https://github.com/AndyLinGitHub/SDL2-Game-Programming/blob/master/image/demo.gif))
+![gif](https://github.com/AndyLinGitHub/SDL2-Game-Programming/blob/master/image/demo.gif)
 
 Full Demo Video: https://youtu.be/DuKH1ZL2wAA
 
