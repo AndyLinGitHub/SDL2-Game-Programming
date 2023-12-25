@@ -10,11 +10,4 @@ Full Demo Video: https://youtu.be/DuKH1ZL2wAA
 
 ## Installation
 ### Windows
-You can download here: https://drive.google.com/file/d/1mmjflhpLGcYuKDt9sCSm94FbqjxE031J/view?usp=drive_link for Windows, or you can download the files in this repository and set up environment with SDL2 to execute this project.
-
-### Linux
-```
-git clone git@github.com:AndyLinGitHub/SDL2-Game-Programming.git
-cd SDL2-Game-Programming
-git clone https://github.com/libsdl-org/SDL.git -b SDL2
-```
+You can download [here](https://drive.google.com/file/d/1mmjflhpLGcYuKDt9sCSm94FbqjxE031J/view?usp=drive_link) for Windows, or you can download the files in this repository and set up environment with SDL2 to execute this project.
