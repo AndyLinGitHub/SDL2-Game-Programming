@@ -1,11 +1,3 @@
-//
-//  Enemy_Bullet.cpp
-//  SDL_test
-//
-//  Created by 林有安 on 2019/1/1.
-//  Copyright © 2019 SDL_test. All rights reserved.
-//
-
 #include <stdio.h>
 #include <SDL.h>
 #include <SDL_image.h>

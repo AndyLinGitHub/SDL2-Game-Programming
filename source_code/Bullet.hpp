@@ -1,11 +1,3 @@
-//
-//  Bullet.hpp
-//  SDL_test
-//
-//  Created by 林有安 on 2018/12/27.
-//  Copyright © 2018 SDL_test. All rights reserved.
-//
-
 #ifndef Bullet_hpp
 #define Bullet_hpp
 

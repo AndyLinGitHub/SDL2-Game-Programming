@@ -1,6 +1,3 @@
-//
-//  Vocabulary.cpp
-
 #include "Vocabulary.hpp"
 Vocabulary:: Vocabulary(){
     computer_voc[0] = new int [12];computer_voc[0] = voc1;
