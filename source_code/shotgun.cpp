@@ -5,6 +5,8 @@
 #include <string>
 #include "LTexture.hpp"
 #include "shotgun.hpp"
+#include <math.h>
+
 Shot_gun::Shot_gun(Character& name){
     //Initialize the offsets
     mPosX = name.getPosX();

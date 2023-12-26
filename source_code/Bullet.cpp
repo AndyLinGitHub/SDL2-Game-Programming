@@ -6,6 +6,8 @@
 #include "LTexture.hpp"
 #include "Bullet.hpp"
 #include <iostream>
+#include <math.h>
+
 LTexture Bullet::texture_bullet[2];
 Bullet::Bullet(Shot_gun& gun)
 {
